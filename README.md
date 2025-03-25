@@ -145,14 +145,13 @@ graph TD;
 ## 🔄 Revision Tracking on GitHub
 
 - **Repository Name:** AI-Deadlock-Detection
-- **GitHub Link:** [Insert Your Repository Link Here]
+- **GitHub Link:** [https://github.com/abhi-mohan/AI-POWERED-DEADLOCK-DETECTION]
 
 ### **Commit Guidelines:**
 ✅ Use descriptive commit messages, e.g.,
 ```bash
 git commit -m "Added deadlock dataset generation script"
 ```
-✅ Maintain at least **7 revisions** with clear commit histories.
 ✅ Use **feature branches** for development and merge into `main` after testing.
 
 ---
