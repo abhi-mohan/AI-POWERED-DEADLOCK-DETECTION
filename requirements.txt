@@ -1,0 +1,31 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+flask
+tkinter
+
+
+# Project Dependencies Explained
+
+## 1️⃣ Core Libraries
+- **numpy** → Handles arrays and matrices for deadlock detection calculations.
+- **pandas** → Helps process and analyze data related to system states.
+
+## 2️⃣ Visualization
+- **matplotlib** → Plots graphs for deadlock patterns.
+- **seaborn** → Creates heatmaps or advanced visualizations.
+
+## 3️⃣ Machine Learning
+- **scikit-learn** → Provides algorithms for deadlock prediction.
+- **tensorflow & torch** → Used if we implement deep learning models.
+
+## 4️⃣ GUI & Web Framework
+- **flask** → If we make a web-based deadlock resolution system.
+- **tkinter** → If we create a desktop application.
+
+## 5️⃣ Logging & Debugging
+- **logging** → For system logs (built into Python).
