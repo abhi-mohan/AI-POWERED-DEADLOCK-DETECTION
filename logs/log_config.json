@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "formatters": {
+        "detailed": {
+            "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+        }
+    },
+    "handlers": {
+        "file_handler": {
+            "class": "logging.FileHandler",
+            "formatter": "detailed",
+            "filename": "log/app.log"
+        }
+    },
+    "root": {
+        "level": "INFO",
+        "handlers": ["file_handler"]
+    }
+}
