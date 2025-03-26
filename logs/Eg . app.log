@@ -1,0 +1,5 @@
+2025-03-25 12:00:00 - INFO - Application started.
+2025-03-25 12:01:15 - INFO - Flask server running on port 5000.
+2025-03-25 12:02:30 - WARNING - Low memory warning.
+2025-03-25 12:03:10 - ERROR - Deadlock detected! Process 3 is waiting indefinitely.
+2025-03-25 12:04:00 - INFO - User submitted new deadlock detection data.
