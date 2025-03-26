@@ -1,0 +1,6 @@
+# Data Description - Deadlock Dataset
+
+1. Process_ID → Unique identifier for a process.
+2. Resource_A → Binary (0/1), indicates if Resource A is held by the process.
+3. Resource_B → Binary (0/1), indicates if Resource B is held by the process.
+4. Deadlock → Label (Yes/No) indicating if a deadlock occurs.
