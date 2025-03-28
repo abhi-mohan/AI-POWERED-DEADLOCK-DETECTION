@@ -1,7 +1,7 @@
 import numpy as np
 import joblib
 
-# Load trained model
+# Load trained models
 model = joblib.load("deadlock_model.pkl")
 
 # Sample input (modify to test different scenarios)
