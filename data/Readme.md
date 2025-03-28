@@ -1,7 +1,7 @@
 # Deadlock Detection Dataset
 
 ## 📌 Overview
-This dataset is used for training and testing an AI model to detect deadlocks in a system. It includes resource allocation details for multiple processes.
+This dataset is used for training and testing an AI model to detect deadlock in a system. It includes resource allocation details for multiple processes.
 
 ## 📂 Files
 - **`deadlock_dataset.csv`** → Main dataset containing process allocations and available resources.
