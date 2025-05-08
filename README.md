@@ -13,7 +13,6 @@ This project leverages **Python, Bash, AI-based models, and system monitoring te
 
 ## 💁️️ Team Members
 - **Abhishek Mohan**  
-- **Deepanshu**  
 - **Contributors Welcome!**
 
 ---
